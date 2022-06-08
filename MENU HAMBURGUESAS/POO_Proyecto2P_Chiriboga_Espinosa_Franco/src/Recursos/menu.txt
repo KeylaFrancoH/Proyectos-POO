@@ -1,0 +1,4 @@
+Hamburguesa simple,5.00,F
+Tiramisu,4.00,P
+Coca Cola 400ml,2.00,B
+Cheese fingers x5,3.00,Q

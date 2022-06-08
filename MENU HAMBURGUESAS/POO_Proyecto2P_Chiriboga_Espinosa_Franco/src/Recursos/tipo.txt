@@ -1,0 +1,4 @@
+Plato fuerte;F
+Postre;P
+Bebida;B
+Piqueo;Q
